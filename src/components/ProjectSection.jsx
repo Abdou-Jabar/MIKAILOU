@@ -1,11 +1,12 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
+
 const projects = [
     {
         id: 1,
         title: "Calculatrice",
         description: "Calculatrice en Java avec Swing, permettant de réaliser des opérations arithmétiques de base.",
-        image: "/src/assets/calculatrice.png",
+        image: "/projects/calculatrice.png",
         tags: ["Java", "Swing"],
         githubUrl: "https://github.com/Abdou-Jabar/Calculator_Java_Project"
     },
@@ -13,7 +14,7 @@ const projects = [
         id: 2,
         title: "Gestion de pharmacie",
         description: "Logiciel de gestion de pharmacie avec une interface utilisateur simple et intuitive.",
-        image: "/src/assets/pharmacie.png",
+        image: "/projects/pharmacie.png",
         tags: ["Java", "Swing", "MySQL"],
         githubUrl: "https://github.com/Abdou-Jabar/Gestion_Vente_Pharmacie",
     },
@@ -21,7 +22,7 @@ const projects = [
         id: 3,
         title: "Jeu de Quizz",
         description: "Jeu de quizz permettant de tester ses connaissances sur divers sujets.",
-        image: "/src/assets/quizz.png",
+        image: "/projects/quizz.png",
         tags: ["TailwindCSS", "Javascript"],
         githubUrl: "https://github.com/Abdou-Jabar/Jeu_Quizz",
         demoUrl: "https://jeu-quizz.onrender.com/"
