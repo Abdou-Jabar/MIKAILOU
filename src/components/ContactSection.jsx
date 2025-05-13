@@ -3,7 +3,6 @@ import { FaWhatsapp } from "react-icons/fa";
 import cn from "../lib/utils";
 
 const ContactSection = () => {
-    console.log("render")
     return <section id="contact" className="py-24 px-4 relative bg-secondary/30">
         <div className="container mx-auto max-w-5xl">
             <h2 className="text-3xl md:text-4xl text-center font-bold mb-4">

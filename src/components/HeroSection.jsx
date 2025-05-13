@@ -11,7 +11,7 @@ const HeroSection = () => {
                     <span className="text-gradient opacity-0 ml-2 animate-fade-in-delay-2"> Abdou-Jabar</span>
                 </h1>
                 <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam qui et eius, asperiores culpa vero labore accusantium. 
+                    Je suis un développeur web passionné par la création d'expériences numériques uniques. J'aime transformer des idées en réalité à travers le code.
                 </p>
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                     <a href="#projets" className="cosmic-button">

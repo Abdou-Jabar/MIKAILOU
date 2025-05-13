@@ -13,11 +13,10 @@ const AboutSection = () => {
                     <div className="space-y-6">
                         <h3 className="text-2xl font-semibold">Développeur web et mobile passioné</h3>
                         <p className="text-muted-foreground">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. A provident animi repudiandae, voluptatum temporibus necessitatibus facilis 
+                            Actuellement etudiant en Génie Logiciel, je me spécialise dans la création d'applications Web réactives, accessibles et performantes utilisant des technologies modernes.
                         </p>
                         <p className="text-muted-foreground">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. A provident animi repudiandae, voluptatum temporibus necessitatibus facilis 
-                        </p>
+                            Je suis passionné par la création de solutions élégantes à des problèmes complexes et j'apprends constamment de nouvelles technologies et techniques pour rester à la pointe du paysage Web en constante évolution.                        </p>
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button">
                                 {""}
