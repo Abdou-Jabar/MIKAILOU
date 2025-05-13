@@ -22,7 +22,7 @@ const AboutSection = () => {
                                 {""}
                                 Me contacter
                             </a>
-                            <a target="_blank" href="/src/files/CV.pdf" className="px-6 py-2 rounded-full text-primary hover:bg-primary/10 transition-colors duration-300 border border-primary">
+                            <a target="_blank" href="/CV.pdf" className="px-6 py-2 rounded-full text-primary hover:bg-primary/10 transition-colors duration-300 border border-primary">
                                 {" "}
                                 Voir mon CV
                             </a>
