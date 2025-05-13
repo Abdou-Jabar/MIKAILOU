@@ -78,7 +78,7 @@ const ContactSection = () => {
                         </div>
                         <div>
                             <label htmlFor="name">Votre message</label>
-                            <textarea name="message" id="message" required placeholder="Bonjour, j'aimerais m'entretenir avec vous..." className="w-full px-4 py-3 mt-2 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary resize-none"/>
+                            <textarea name="message" id="message" required placeholder="Bonjour, j'aimerais m'entretenir avec vous..." className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary resize-none"/>
                         </div>
                         <button type="submit" className={cn("cosmic-button w-full flex items-center justify-center gap-2")}>
                             Envoyer le message
