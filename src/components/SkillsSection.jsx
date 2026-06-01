@@ -9,8 +9,8 @@ const skills = [
     
 
     //Backend
-    {name: "PHP", level: 50, category: "Backend"},
-    {name: "Laravel", level: 30, category: "Backend"},
+    {name: "Nodejs", level: 80, category: "Backend"},
+    {name: "Springboot", level: 80, category: "Backend"},
     {name: "MySQL", level: 80, category: "Backend"},
     {name: "SQL Server", level: 60, category: "Backend"},
 
