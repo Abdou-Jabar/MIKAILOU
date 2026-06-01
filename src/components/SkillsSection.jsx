@@ -2,9 +2,9 @@ import {useState} from "react";
 import cn from "../lib/utils";
 const skills = [
     //Frontend
-    {name: "HTML/CSS", level: 80, category: "Frontend"},
-    {name: "Javascript", level: 60, category: "Frontend"},
-    {name: "React", level: 60, category: "Frontend"},
+    {name: "HTML/CSS", level: 60, category: "Frontend"},
+    {name: "Angular", level: 70, category: "Frontend"},
+    {name: "React/Nextjs", level: 80, category: "Frontend"},
     {name: "TailwindCSS", level: 70, category: "Frontend"},
     
 
